@@ -1,4 +1,4 @@
-# gcd of any number 
+# By Using Euclid's algo, Our runtime of program is O(logn)
 
 def gcd(a,b):
 	if b == 0:
